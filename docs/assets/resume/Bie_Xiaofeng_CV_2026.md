@@ -10,9 +10,9 @@ GitHub: github.com/biexiaofeeng-boop (Personal / Engineering) | github.com/ox00 
 
 ## Professional Summary
 
-Technology and business builder with 14+ years spanning enterprise software architecture, product-R&D coordination, and data-driven business transformation. Currently extending into AI system design and intelligent workflow architecture through formal study and hands-on project work.
+Technology and business builder with 14+ years in enterprise software architecture, product-R&D coordination, and data-driven business transformation. Now building deeper capability in AI system design and intelligent workflows through formal study and hands-on projects.
 
-I design AI and data products that connect business insight, engineering architecture, and scalable execution — not as separate disciplines, but as integrated delivery.
+I design AI and data products that connect business insight, engineering architecture, and execution — as one integrated practice, not separate disciplines.
 
 ---
 
@@ -32,10 +32,10 @@ I design AI and data products that connect business insight, engineering archite
 ### Leadership Role — Guangzhou Xinshu Intelligent Technology Co., Ltd.
 **2015 – Present**
 
-- Led cross-functional initiatives in business transformation, digital solution design, and scalable enterprise systems
-- Directed data-driven market analysis and trend insight work for strategic decision support
+- Led business transformation, digital solution design, and enterprise system projects across functions
+- Ran data-driven market analysis and trend work for strategic decisions
 - Coordinated product-R&D alignment across technical and business teams
-- Designed technical architecture and delivery governance for industry-facing client solutions
+- Designed technical architecture and delivery governance for client-facing solutions
 
 ### Technical Supervisor — YY Inc.
 **2014 – 2015**
@@ -57,7 +57,7 @@ I design AI and data products that connect business insight, engineering archite
 ### Master of Science in Artificial Intelligence and Business Analytics (AIBA)
 **Lingnan University** | 2025 – Present (Ongoing)
 
-- Strengthening hands-on capability in machine learning, AI system design, and project-based analytical work
+- Building hands-on capability in machine learning, AI system design, and project-based analytical work
 - Coursework includes ML, evolutionary algorithms, business analytics, and AI product development
 
 ### Bachelor of Arts in Information Systems and Information Management
